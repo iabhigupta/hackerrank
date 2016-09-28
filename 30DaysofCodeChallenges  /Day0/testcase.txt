@@ -1,0 +1,12 @@
+Testcase 0
+Congratulations, you passed the sample test case.
+Click the Submit Code button to run you code against all the test cases.
+
+Input (stdin)
+Welcome to 30 Days of Code!
+Your Output (stdout)
+Hello, World.
+Welcome to 30 Days of Code!
+Expected Output
+Hello, World.
+Welcome to 30 Days of Code!

@@ -1,0 +1,16 @@
+Testcase 0
+Congratulations, you passed the sample test case.
+Click the Submit Code button to run you code against all the test cases.
+
+Input (stdin)
+12
+4.0
+is the best place to learn and practice coding!
+Your Output (stdout)
+16
+8.0
+HackerRank is the best place to learn and practice coding! 
+Expected Output
+16
+8.0
+HackerRank is the best place to learn and practice coding!
